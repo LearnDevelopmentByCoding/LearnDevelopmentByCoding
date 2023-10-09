@@ -18,9 +18,7 @@ Welcome to LearnDevelopmentByCoding! This GitHub account is dedicated to helping
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-- [Python Exercises](#python-exercises)
-- [Open Source Projects](#open-source-projects)
-- [Project Templates](#project-templates)
+- [100 Days of Coding Challenge](#100-days-of-coding-challenge)
 - [Contributing](#contributing)
 - [Special Thanks](#special-thanks)
 - [License](#license)
@@ -29,25 +27,13 @@ Welcome to LearnDevelopmentByCoding! This GitHub account is dedicated to helping
 
 ## Getting Started
 
-If you're new to programming or Python, we recommend starting with the exercises and gradually moving on to open-source projects and templates. Here's how you can get started:
+If you're new to programming or Python, we recommend starting with our "100 Days of Coding Challenge" and gradually moving on to other resources. Here's how you can get started:
 
-1. **Explore the Python Exercises**: Check out our collection of Python exercises designed to help you build your coding skills step by step. Navigate to the [Python Exercises](./python-exercises) directory to get started.
+1. **100 Days of Coding Challenge**: Kickstart your coding journey by participating in our "100 Days of Coding Challenge." This challenge is designed to help you build a coding habit, improve your skills, and have fun along the way. Visit the [100 Days of Coding Challenge](./100-days-of-coding) directory to get started.
 
-2. **Contribute to Open Source Projects**: If you're looking for real-world experience, explore our beginner-friendly open-source projects. These projects are a great way to learn about collaborative coding and contribute to the developer community. Visit the [Open Source Projects](./open-source-projects) directory to find opportunities to get involved.
+## 100 Days of Coding Challenge
 
-3. **Use Project Templates**: Save time on setting up new projects by using our project templates. We offer a variety of templates to kickstart your development efforts. Find them in the [Project Templates](./project-templates) directory.
-
-## Python Exercises
-
-In the [Python Exercises](./python-exercises) directory, you'll find a collection of programming exercises and challenges covering various Python topics. Whether you're a beginner or looking to sharpen your skills, these exercises are designed to provide hands-on experience and reinforce your learning.
-
-## Open Source Projects
-
-Our [Open Source Projects](./open-source-projects) are open for contributions from beginners and experienced developers alike. These projects cover a wide range of topics and technologies, allowing you to work on real-world code and collaborate with other developers.
-
-## Project Templates
-
-Our [Project Templates](./project-templates) are designed to help you jumpstart your own coding projects. These templates provide a basic project structure, so you can focus on building your application without worrying about setting up the initial boilerplate code.
+In the [100 Days of Coding Challenge](./100-days-of-coding) directory, you'll find a structured program with daily coding tasks and exercises. Whether you're a beginner or looking to sharpen your skills, this challenge will provide you with consistent practice and guidance.
 
 ## Contributing
 
@@ -55,8 +41,12 @@ We welcome contributions from the community to improve our exercises, projects, 
 
 ## Special Thanks
 
-A special thanks to **JelleWierenga** for their invaluable contributions in creating the solution code for our Python exercises. Your dedication to helping learners is greatly appreciated!
+A special thanks to **JelleWierenga** for their invaluable contributions in creating the solution code for our coding challenges. Your dedication to helping learners is greatly appreciated!
+
+Additionally, **JelleWierenga** is a Data Science Student from The Netherlands, with expertise in data analysis, machine learning, and statistical modeling, and a passion for integrating data-driven insights into web applications. In their free time, they solve problems on LeetCode and Codewars, as well as watching tech videos on YouTube.
 
 ## License
 
 This repository and its contents are licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute our materials, and don't forget to attribute us when you do!
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-JelleWierenga-success?style=flat&logo=GitHub&logoColor=white)](https://github.com/JelleWierenga)
